@@ -351,8 +351,103 @@ const EN_1970_F_PACK_1 = 1;
 let en_1970_f = [
 		{
 			pack : EN_1970_F_PACK_1,
-			group : 'Олег Даль',
-			song : 'Мальчик Купидон (1975)'
+			group : 'Bonnie Tyler',
+			song : "It's a Heartache (1977)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Chaka Khan',
+			song : "I'm Every Woman (1978)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Cher',
+			song : "Dark Lady (1974)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Cher',
+			song : "Gypsies, Tramps and Thieves (1971)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Dalida',
+			song : "Tico Tico (1976)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Dalida',
+			song : "Paroles paroles (ft Alain Delon) (1973)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Dolly Parton',
+			song : "I Will Always Love You (1974)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Dolly Parton',
+			song : "Jolene (1973)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Donna Summer',
+			song : "Hot Stuff (1979)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Donna Summer',
+			song : "Love To Love You Baby (1975)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Donna Summer',
+			song : "On My Honor (1979)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Jeanette',
+			song : "Porqué Te Vas? (1974)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Lena Andersson',
+			song : "Better To Have Loved (1972)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Liza Minnelli',
+			song : 'Medley of Tunes from "Cabaret" (1972)'
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Liza Minnelli',
+			song : "Mein Herr (1972)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Mireille Mathieu',
+			song : "Pardonne-moi ce caprice d'enfant (1970)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Mireille Mathieu',
+			song : "Une histoire d'amour (1971)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Nicole',
+			song : "Goeiemorgen, Morgen (ft Hugo) (1971)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Olivia Newton-John',
+			song : "Hopelessly Devoted to You (1978)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Roberta Flack',
+			song : "River (1973)"
 		}
 ];
 
