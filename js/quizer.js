@@ -448,6 +448,11 @@ let en_1970_f = [
 			pack : EN_1970_F_PACK_1,
 			group : 'Roberta Flack',
 			song : "River (1973)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Janis Joplin',
+			song : "Cry Baby (1971)"
 		}
 ];
 
