@@ -397,7 +397,8 @@ let en_1970_f = [
 		{
 			pack : EN_1970_F_PACK_1,
 			group : 'Donna Summer',
-			song : "Love To Love You Baby (1975)"
+			song : "Love To Love You Baby (1975)",
+			ignore : true
 		},
 		{
 			pack : EN_1970_F_PACK_1,
@@ -453,6 +454,11 @@ let en_1970_f = [
 			pack : EN_1970_F_PACK_1,
 			group : 'Janis Joplin',
 			song : "Cry Baby (1971)"
+		},
+		{
+			pack : EN_1970_F_PACK_1,
+			group : 'Donna Summer',
+			song : "Love To Love You Baby (1975)"
 		}
 ];
 
